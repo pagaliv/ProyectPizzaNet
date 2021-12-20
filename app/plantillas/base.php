@@ -15,7 +15,7 @@
 
     <style>
       h1 {
-          background-color:blue;
+        font-family: Arial, Helvetica, sans-serif;
       }
     
     
